@@ -9,3 +9,6 @@ for key, value in os.environ.items():
 
 value = os.getenv("TEST_KEY")
 print(f"TEST_KEY: {value}")
+
+for i in range(1,4):
+    print(i)

@@ -1,0 +1,6 @@
+In Python you can store information using variables and reuse them later in a program.
+In Python you can work with strings, numbers, and lists to represent real-world data.
+In Python you can use if statements to make decisions based on conditions.
+In Python you can repeat actions efficiently using for and while loops.
+In Python you can organize logic into functions to make code reusable and readable.
+In Python you can import modules to extend what your programs can do.
